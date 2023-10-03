@@ -1,4 +1,4 @@
-# Amazon_Quarterly_Sales_Analysis
+# Amazon_Sales_Analysis
 **Project Overview**
 This project focuses on data analysis and visualization using DAX functions to gain insights into sales data. Key aspects covered in this project include:
 
